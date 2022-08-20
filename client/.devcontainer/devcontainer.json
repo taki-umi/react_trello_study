@@ -18,6 +18,7 @@
     },
     "extensions": [
         "xabikos.javascriptsnippets",
+        "dsznajder.es7-react-js-snippets",
         "formulahendry.auto-rename-tag",
         "formulahendry.auto-close-tag",
         "coenraads.bracket-pair-colorizer-2",

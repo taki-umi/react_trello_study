@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.dragDropArea {
+  text-align: center;
+  margin: 50px;
+  width: 450px;
+  border: 1px solid black;
+}
+
+.item {
+  margin-bottom: 20px;
+  font-size: 70px;
+  border: 1px solid black;
+}

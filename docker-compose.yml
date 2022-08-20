@@ -12,6 +12,7 @@ services:
     #docker内に入った時の初期パスの指定
     ports:
       - 3000:3000
+    # command: sh -c "yarn start"
     #コンテナが勝手に終了しないための設定
     tty: true
     #標準入出力とエラー出力をコンテナに結びつける設定
