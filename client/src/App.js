@@ -1,12 +1,10 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { DragDropContext, Draggable, Droppable } from "react-beautiful-dnd";
-import { useState } from "react";
+import { Header } from "./components/header/Header";
 
 function App() {
   return (
-    <div>
-      <Headers />
+    <div className="app">
+      <Header />
     </div>
   );
 }
